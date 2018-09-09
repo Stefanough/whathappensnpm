@@ -1,7 +1,11 @@
 {
-  "name": "npmtest",
+  "name": "whathappenswhen",
   "version": "1.0.0",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stefanough/whathappensnpm.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "mocha --reporter spec"
